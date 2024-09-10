@@ -92,7 +92,6 @@ Optimizing-LDPC-Decoders/
 │
 ├── docs/                         # Documentation files
 │   ├── report.pdf                # Full project report
-│   └── methodology.md            # Detailed methodology description
 │
 ├── LICENSE                       # License file
 └── README.md                     # This README file
