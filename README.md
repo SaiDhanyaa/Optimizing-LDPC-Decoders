@@ -99,17 +99,18 @@ Optimizing-LDPC-Decoders/
 ### Contributing
 Contributions are welcome! Please read the contributing guidelines for more details.
 
-### References
+## References
 
-[1] B. Unal, A. Akoglu, F. Ghaffari, and B. Vasić, “Hardware Implementation and Performance Analysis of Resource Efficient Probabilistic Hard Decision LDPC Decoders,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 65, no. 9, pp. 3074-3084, Sept. 2018.
+[1] B. Unal, A. Akoglu, F. Ghaffari, and B. Vasić, “Hardware Implementation and Performance Analysis of Resource Efficient Probabilistic Hard Decision LDPC Decoders,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 65, no. 9, pp. 3074-3084, Sept. 2018. [Link](https://ieeexplore.ieee.org/document/8329987)
 
-[2] G. Wang, M. Wu, Y. Sun and J. R. Cavallaro, “A massively parallel implementation of QC-LDPC decoder on GPU,” IEEE 9th Symposium on Application Specific Processors (SASP), 2011.
+[2] G. Wang, M. Wu, Y. Sun and J. R. Cavallaro, “A massively parallel implementation of QC-LDPC decoder on GPU,” IEEE 9th Symposium on Application Specific Processors (SASP), 2011. [Link](https://ieeexplore.ieee.org/document/5971525)
 
-[3] K. K. Abburi, “A Scalable LDPC Decoder on GPU,” 24th International Conference on VLSI Design, 2011.
+[3] K. K. Abburi, “A Scalable LDPC Decoder on GPU,” 24th International Conference on VLSI Design, 2011. [Link](https://ieeexplore.ieee.org/document/5729028)
 
-[4] S. Keskin and T. Kocak, “GPU-Based Gigabit LDPC Decoder,” IEEE Communications Letters, vol. 21, no. 8, pp. 1703-1706, Aug. 2017.
+[4] S. Keskin and T. Kocak, “GPU-Based Gigabit LDPC Decoder,” IEEE Communications Letters, vol. 21, no. 8, pp. 1703-1706, Aug. 2017. [Link](https://ieeexplore.ieee.org/document/7935552)
 
-[5] R. Amiri and H. Mehrpouyan, “Multi-Stream LDPC Decoder on GPU of Mobile Devices,” IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019.
+[5] R. Amiri and H. Mehrpouyan, “Multi-Stream LDPC Decoder on GPU of Mobile Devices,” IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), 2019. [Link](https://ieeexplore.ieee.org/document/8666491)
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
