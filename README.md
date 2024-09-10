@@ -53,11 +53,13 @@ To run the code, ensure you have the following prerequisites installed:
    ```bash
    git clone https://github.com/SaiDhanyaa/Optimizing-LDPC-Decoders.git
    cd Optimizing-LDPC-Decoders
-  ```
+   ```
+
 2. Build the project:
    ```bash
    make all
    ```
+
 ### Running the Experiments
 Run the compiled executable for each version:
 
@@ -73,7 +75,7 @@ Use the provided benchmarking script to compare the performance of each version:
 ```bash
 python benchmark.py
 ```
-## Directory Structure
+### Directory Structure
 ```
 Optimizing-LDPC-Decoders/
 │
@@ -95,10 +97,11 @@ Optimizing-LDPC-Decoders/
 ├── LICENSE                       # License file
 └── README.md                     # This README file
 ```
-## Contributing
+### Contributing
 Contributions are welcome! Please read the contributing guidelines for more details.
 
-## References
+### References
+
 [1] B. Unal, A. Akoglu, F. Ghaffari, and B. Vasić, “Hardware Implementation and Performance Analysis of Resource Efficient Probabilistic Hard Decision LDPC Decoders,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 65, no. 9, pp. 3074-3084, Sept. 2018.
 
 [2] G. Wang, M. Wu, Y. Sun and J. R. Cavallaro, “A massively parallel implementation of QC-LDPC decoder on GPU,” IEEE 9th Symposium on Application Specific Processors (SASP), 2011.
