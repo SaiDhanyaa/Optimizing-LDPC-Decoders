@@ -1,0 +1,23 @@
+BlockDimension = 128
+-----------------------------------------------------Gallager B-----------------------------------------------------
+alpha	  NbEr(BER)			NbFer(FER)		 Nbtested	IterAver(Itermax)	NbUndec(Dmin)
+0.06000	29309(0.20191936)	100(0.89285713)	    112		95.04(78)		0(100000)
+Total execution time for Alpha0: 3142.698242 (ms)
+Total throughput with 145152 number of codewords executed for Alpha0 : 46.187061
+
+0.05000	16989(0.07010052)	100(0.53475934)	    187		68.88(88)		0(100000)
+Total execution time for Alpha1: 2716.518311 (ms)
+Total throughput with 242352 number of codewords executed for Alpha1 : 89.214195
+
+0.04000	 2149(0.00258686)	100(0.15600625)	    641		32.13(97)		0(100000)
+Total execution time for Alpha2: 4564.391113 (ms)
+Total throughput with 830736 number of codewords executed for Alpha2 : 182.003677
+
+0.03000	  403(0.00009714)	100(0.03124024)	   3201		14.65(42)		0(100000)
+Total execution time for Alpha3: 11433.132812 (ms)
+Total throughput with 4148496 number of codewords executed for Alpha3 : 362.848572
+
+0.02000	  322(0.00001689)	100(0.00679948)	  14707		9.29(17)		0(100000)
+Total execution time for Alpha4: 39417.351562 (ms)
+Total throughput with 19060272 number of codewords executed for Alpha4 : 483.550293
+
